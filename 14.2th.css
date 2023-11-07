@@ -1,0 +1,29 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    height: 90vh;
+    width: 90%;
+    background-color: cornflowerblue;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+
+}
+#green{
+    display: flex;
+    height: 60vh;
+    width: 80%;
+    background-color: rgb(4, 63, 4);
+    justify-content: center;
+    align-items: center;
+    
+}
+#red{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(233, 3, 3);
+    border-radius: 100px;
+
+}
